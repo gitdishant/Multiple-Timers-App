@@ -33,11 +33,11 @@ function myFunction() {
   };
 
 
-  let inputValue = document.getElementsByClassName('time_hh').value;
+  /*let inputValue = document.getElementsByClassName('time_hh').value;
     let inputValue1 = document.getElementsByClassName('time_mm').value;
     let inputValue2 = document.getElementsByClassName('time_ss').value;
     
-    document.getElementById("hewh2").innerHTML = (inputValue  +":"+ inputValue1+":"+inputValue2)
+    document.getElementById("hewh2").innerHTML = (inputValue  +":"+ inputValue1+":"+inputValue2)*/
 
   // Append the text node to the "li" node:
   node.appendChild(newDiv);
